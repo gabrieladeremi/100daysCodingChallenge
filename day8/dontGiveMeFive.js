@@ -14,4 +14,4 @@ function dontGiveMeFive(start, end){
     return p.length
 }
 
-console.log(dontGiveMeFive(1, 10));
+console.log(dontGiveMeFive(1, 40));
